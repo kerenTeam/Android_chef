@@ -2,5 +2,3 @@
 phpinfo();
 
 123456;
-
-dasds;
