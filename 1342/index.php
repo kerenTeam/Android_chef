@@ -10,4 +10,10 @@ echo "23456yuio0-=DSAEFE";
 
 echo "12345";
 
+<<<<<<< HEAD
 echo "abcd"
+=======
+
+
+echo "ABCD";
+>>>>>>> bfed25d46828fe80032527f7f5bc5f119f1108cb
