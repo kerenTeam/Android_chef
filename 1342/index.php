@@ -1,4 +1,4 @@
 <?php
 phpinfo();
 print_r(phpversion());
-echo "123456";
+echo "123456WRERT";
