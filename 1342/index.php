@@ -9,3 +9,9 @@ echo "1111111111112222222";
 echo "23456yuio0-=DSAEFE";
 
 echo "12345";
+
+
+
+echo "ABCD";
+
+echo "1234567890-=";
